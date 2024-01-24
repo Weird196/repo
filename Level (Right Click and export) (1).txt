@@ -1,0 +1,22 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign special="1" ropePhysicsSpeed="1.0" />
+</layer>
+<layer name="Objects">
+<grab x="82" y="185" length="100cm" wheel="false" gun="false" radius="-1" moveLength="-1" moveVertical="false" moveOffset="0" spider="true" part="L" hidePath="false" />
+<grab x="164" y="198" length="" wheel="false" gun="false" radius="-1" moveLength="5" moveVertical="true" moveOffset="0" spider="false" part="L" hidePath="false" />
+<tutorialText x="471" y="332" locale="en" text="hi" width="160" />
+<rotatedCircle x="305" y="282" size="80" handleAngle="-15" oneHandle="false"  />
+<gravitySwitch x="-129" y="246" />
+<bouncer1 x="51" y="303" angle="150" size="1" />
+<electro x="75" y="372" initialDelay="0.0" offTime="2.0" onTime="2.0" angle="150" size="5" />
+<spike4 x="477" y="214" angle="-45" size="3" toggled="1" />
+<grab x="255" y="159" length="10" wheel="true" gun="false" radius="3" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" hidePath="false" />
+<sock x="-45" y="139" group="0" angle="90" />
+<sock x="96" y="416" group="0" angle="-75" />
+<spike2 x="422" y="372" angle="90" size="2" />
+<star x="372" y="169" timeout="30" />
+<star x="81" y="111" />
+</layer>
+</map>
